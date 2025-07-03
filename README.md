@@ -1,4 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Utsav Anand!
+🎓 B.Tech student in Electrical and Electronics Engineering at VIT Vellore  
+💡 Passionate about drones, embedded systems, and AI  
+🚀 Currently learning: React, Firebase, and Git/GitHub  
+## 🛠️ Skills & Tools
+- 💻 Languages:Python, Java (beginner)
+- 🌐 Web:React (basic), Firebase
+- ⚙️ Tools: Git, MATLAB
+## 🧠 Notable Projects
+- 🚮 **Trash2Tech** – Hackathon app for real-time waste tracking and smart routing using Firebase + React
+- 🛸 **Quadcopter Design** – Blueprint and simulation of FPV drone with sensor integration
+- 🌦️ **Weather App** – Simple web app showing live weather data using API (in progress)
+## 📚 Currently Learning
+- Git & GitHub workflows
+- React.js front-end development
+- c and java (advanced)
+
+
+
 
 <!--
 **utsavv08/utsavv08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
