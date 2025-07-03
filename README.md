@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Utsav Anand!
 
 🎓 I'm a B.Tech student in Electrical and Electronics Engineering (EEE) at **VIT Vellore**  
-🛸 **Core Member** at **Team Rotor FPV** – VIT’s competitive drone-building and racing team
-🚀 Currently exploring the intersection of **drones**, **embedded systems**, and **AI** 
+🛸 **Core Member** at **Team Rotor FPV** – VIT’s competitive drone-building and racing team  
+🚀 Currently exploring the intersection of **drones**, **embedded systems**, and **AI**  
 💡 Passionate about building real-world solutions using tech  
 🛠️ Always curious and learning something new!
 
