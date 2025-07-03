@@ -45,7 +45,6 @@
 
 - 📧 Email: touch2utsav@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/utsavanand](https://linkedin.com/in/utsavanand)
-- 🌍 Portfolio: Coming Soon!
 
 ---
 
